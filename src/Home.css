@@ -1,0 +1,10 @@
+.home__section {
+  display: flex;
+  padding: 30px;
+}
+
+
+.card__heading{
+  margin-top: 50px;
+  padding-left: 40px;
+}
